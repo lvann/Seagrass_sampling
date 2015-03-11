@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.google.com/earth/kml/2">
+<Document>
+  <name>test.kml</name>
+
+<Style id="blue">
+  <IconStyle>
+    <Icon>
+      <href>http://ucjeps.berkeley.edu/images/red_square.gif</href>
+    </Icon>
+  </IconStyle>
+</Style>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CDA1627">CDA1627</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.7411, 39.4617, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB36279">UCSB36279</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.732559204102, 39.4638214111328, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA289967">RSA289967</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.7326, 39.4638, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1423439">UC1423439</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.7344, 39.4609, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR182945A">UCR182945A</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.74111, 39.46167, 0</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>

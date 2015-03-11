@@ -1,0 +1,3231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.google.com/earth/kml/2">
+<Document>
+  <name>test.kml</name>
+
+<Style id="blue">
+  <IconStyle>
+    <Icon>
+      <href>http://ucjeps.berkeley.edu/images/red_square.gif</href>
+    </Icon>
+  </IconStyle>
+</Style>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD6449">SD6449</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.13217, 32.77479, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD115085">SD115085</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.83496, 32.88966, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1731413">UC1731413</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.50139, 37.95111, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099822">UC1099822</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.14306, 41.12139, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?HSC23510">HSC23510</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.7072, 40.5850, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD166947">SD166947</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.78417, 33.10889, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC41962">CHSC41962</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.778611111111, 39.2202777777778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1191228">UC1191228</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.44776, 37.689358, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM296440">POM296440</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.2366, 37.4041, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD110294">SD110294</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.57253, 32.76409, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CAS836577">CAS836577</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.0652000000, 41.8575000000, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD198910">SD198910</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.46664, 33.47364, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958415">SEINET958415</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.583333, 33.033333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC46885">CHSC46885</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.986388888889, 39.8819444444444, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1147895">UC1147895</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.45702, 33.378376, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CAS1127578">CAS1127578</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.4136111111, 34.1102777778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR95295">UCR95295</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.39361, 34.52389, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA47638">LA47638</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.870876809581, 34.1394592707723, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA596100">RSA596100</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.3910, 33.4003, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099839">UC1099839</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.8278, 39.3287, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM259788">POM259788</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.3279, 37.1137, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET1004091">SEINET1004091</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.1625, 34.300833, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG110778">SBBG110778</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.2603, 36.0005, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099834">UC1099834</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.92583, 37.16857, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR95294">UCR95294</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.77917, 34.41417, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC61202">CHSC61202</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.147222222222, 39.4491666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42955">JEPS42955</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.234795, 37.83542, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA1022">RSA1022</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.6486, 34.0945, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD72863">SD72863</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.46252, 32.88061, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CAS1125035">CAS1125035</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.2283333333, 34.2025000000, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG56494">SBBG56494</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.3076, 34.277, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1586528">UC1586528</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.49544, 39.32916, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42957">JEPS42957</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.0708, 38.2119, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR141402">UCR141402</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.39472, 37.2475, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?PGM2016">PGM2016</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.9500, 36.6096, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA166027">RSA166027</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC116773">UC116773</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.2919, 34.1131, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA706823">RSA706823</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.148888888889, 34.26, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099814">UC1099814</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.21861, 37.06639, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG14670">SBBG14670</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.609, 35.047, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCD138339">UCD138339</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.5561, 32.7892, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS99587">JEPS99587</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.90889, 37.86194, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM1023">POM1023</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.7404, 33.5376, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD64">SD64</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.6042, 32.93455, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB53730">UCSB53730</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.3833300000, 37.4916670000, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC142449">UC142449</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.9953, 38.239, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA287041">RSA287041</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.0171, 33.9804, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958425">SEINET958425</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA311637">RSA311637</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.566666666667, 35.65, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR59939">UCR59939</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.60167, 34.69222, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CAS1126057">CAS1126057</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.4219444444, 34.1036111111, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA315164">RSA315164</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.8162, 34.2908, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC76633">CHSC76633</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.533333333333, 39.7622222222222, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099830">UC1099830</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.831436, 37.102184, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA659236">RSA659236</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.2871, 35.7138, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS392">JEPS392</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.6820, 34.0170, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC440">UC440</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.8962, 34.2571, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100077">UC1100077</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.427, 41.0806, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA522723">RSA522723</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.9532, 33.4757, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC814176">UC814176</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.32873, 37.116352, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG114261">SBBG114261</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.1183, 34.7024, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099826">UC1099826</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.493576, 32.824364, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS20275">JEPS20275</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.18417, 37.395, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA231228">RSA231228</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.7892, 36.7996, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA489744">RSA489744</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.383333333333, 37.4916666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR47636">UCR47636</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.68389, 33.67028, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR108627">UCR108627</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.27167, 32.61556, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1058543">UC1058543</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.46, 32.8824, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG18659">SBBG18659</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.03, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS76740">JEPS76740</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.99238, 39.88344, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD221537">SD221537</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.68867, 33.02673, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958416">SEINET958416</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.616667, 33.033333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC2028384">UC2028384</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.01611, 37.889722, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR242561">UCR242561</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-115.225, 35.28889, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099818">UC1099818</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.485565, 37.638092, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD6448">SD6448</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.13217, 32.77479, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG98265">SBBG98265</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-115.2283, 35.2894, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC92671">CHSC92671</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.990277777778, 39.9477777777778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD126229">SD126229</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.48468, 32.8422, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA501121">RSA501121</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.3133, 35.0217, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099831">UC1099831</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.84922, 37.087334, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG121158">SBBG121158</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.1183, 34.7024, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA191456">RSA191456</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.2830, 33.5000, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42983">JEPS42983</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.56722, 37.00583, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC750476">UC750476</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.3076, 34.2770, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099838">UC1099838</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.458244, 37.626728, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG88906">SBBG88906</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-124.068, 40.9, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD143052">SD143052</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.27167, 32.61556, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG82068">SBBG82068</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.042, 34.778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA191639">RSA191639</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.7273, 34.3931, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100073">UC1100073</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.49034, 41.95385, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA803306">RSA803306</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.66716, 33.66575, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD214687">SD214687</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.65097, 32.68803, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958412">SEINET958412</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.3076, 34.2770, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR47520">UCR47520</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.40278, 34.66639, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB34801">UCSB34801</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB53766">UCSB53766</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.3833300000, 37.4916670000, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS114840">JEPS114840</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.05778, 41.190834, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS391">JEPS391</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.0938, 33.0559, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD175616">SD175616</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.93056, 32.91722, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB23047">UCSB23047</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.0708, 38.2119, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG114568">SBBG114568</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.1183, 34.7024, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG114344">SBBG114344</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.774, 34.549, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM199589">POM199589</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.6820, 34.0170, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099832">UC1099832</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.84922, 37.087334, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA383485">RSA383485</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.2667, 33.8458, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA715411">RSA715411</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.413611111111, 34.1102777777778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG104859">SBBG104859</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.693, 35.33, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG20663">SBBG20663</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.659, 34.4224, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC441">UC441</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.41833, 37.775, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SDSU12683">SDSU12683</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.072500, 32.848890, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR244640">UCR244640</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.45528, 38.21389, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR64611">UCR64611</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.57111, 33.92389, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA781509">RSA781509</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.5670, 34.6723, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CAS1128278">CAS1128278</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.3377777778, 34.1361111111, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CDA1422">CDA1422</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.156111111111, 38.0919444444444, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD112175">SD112175</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.73682, 33.23667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA383491">RSA383491</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.1582, 33.0392, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100076">UC1100076</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.54849, 41.037506, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1925826">UC1925826</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.12067, 35.596304, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA795853">RSA795853</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.8580, 34.4300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA47639">LA47639</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.870876809581, 34.1394592707723, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC279593">UC279593</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.57538, 37.954395, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR119563">UCR119563</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.48194, 34.02167, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099825">UC1099825</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.1214, 32.8984, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET1004120">SEINET1004120</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.421944, 34.103611, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA34244">LA34244</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.854379498708, 34.1288892739064, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA383489">RSA383489</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.7700, 33.5400, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD6215">SD6215</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.92532, 32.62715, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG14592">SBBG14592</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.603, 35.801, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA714739">RSA714739</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.421944444444, 34.1036111111111, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA7144">LA7144</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.756313963816, 34.1057597032649, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC63974">UC63974</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.0708, 38.2119, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100072">UC1100072</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.674416, 40.71605, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CAS840188">CAS840188</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.3992000000, 41.2317000000, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS23924">JEPS23924</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.16917, 37.42722, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099819">UC1099819</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.09529, 40.01438, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR166650">UCR166650</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.33778, 34.13611, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100080">UC1100080</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.4821, 41.5151, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD179901">SD179901</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.77472, 32.78333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?VVC1496">VVC1496</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-115.2333333333333333, 35.2916666666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD167924">SD167924</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.80983, 33.23071, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM155920">POM155920</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.5651, 32.9926, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC88547">CHSC88547</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.598055555556, 40.1063888888889, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR132714">UCR132714</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.38611, 33.99306, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG38508">SBBG38508</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.2265, 35.6727, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG45367">SBBG45367</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099828">UC1099828</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.98353, 37.25507, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA30462">RSA30462</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.5711, 33.9239, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR12664">UCR12664</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.80583, 34.27333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC814177">UC814177</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.6820, 34.0170, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA501120">RSA501120</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-115.2283, 35.2894, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR95735">UCR95735</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.46925, 33.37736, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA383483">RSA383483</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.2721, 34.4255, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC99517">CHSC99517</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.057777777778, 41.1908333333333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA522554">RSA522554</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6665, 35.4646, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB56893">UCSB56893</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6070, 34.8450, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099829">UC1099829</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.940384, 37.23321, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB34800">UCSB34800</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1731416">UC1731416</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.85111, 38.184444, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA34193">LA34193</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.755346664278, 34.1114092697406, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG104854">SBBG104854</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6875, 35.3405, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958418">SEINET958418</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.683333, 33.183333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB31390">UCSB31390</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.8580, 34.4300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG82069">SBBG82069</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.727, 34.454, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100079">UC1100079</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.3499, 41.0831, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA188254">RSA188254</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.4508, 33.3575, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM12440">POM12440</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.7595, 33.5923, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR250555">UCR250555</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.63442, 35.01397, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099815">UC1099815</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.96687, 37.17512, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099823">UC1099823</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC430">UC430</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.42893, 37.553787, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42956">JEPS42956</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.06942, 37.59459, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD6216">SD6216</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.91729, 32.61874, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR17890">UCR17890</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.22, 34.43806, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958423">SEINET958423</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.483333, 32.85, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA710653">RSA710653</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.809722222222, 33.2308333333333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SDSU12478">SDSU12478</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.038060, 32.787220, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA210189">LA210189</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA174009">RSA174009</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG56492">SBBG56492</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.765, 34.423, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA40247">RSA40247</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.3076, 34.2770, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG114623">SBBG114623</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.2945, 34.443, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG126225">SBBG126225</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.567, 34.6723, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD106718">SD106718</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.57791, 32.77387, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100075">UC1100075</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.3667, 41.0786, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR65195">UCR65195</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.6820, 34.0170, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM1021">POM1021</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.92178, 34.25392, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCD19329">UCD19329</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.151666666707, 38.5169444444512, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42987">JEPS42987</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.22905, 37.846233, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA605299">RSA605299</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.4031, 34.2067, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC434">UC434</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.333, 33.65, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB38024">UCSB38024</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CDA18351">CDA18351</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.75, 36.9166666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR48421">UCR48421</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.5475, 33.15389, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR167036">UCR167036</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.1625, 34.30083, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC774832">UC774832</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.5711, 33.9239, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD48878">SD48878</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.45774, 32.87983, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099827">UC1099827</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-115.620926, 33.112595, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR166640">UCR166640</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.42194, 34.10361, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS18936">JEPS18936</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR23241">UCR23241</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-115.22833, 35.28944, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA369485">RSA369485</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.8419, 34.2658, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958417">SEINET958417</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.6, 33.033333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC96249">CHSC96249</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.432777777778, 41.1122222222222, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA706646">RSA706646</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.1625, 34.3008333333333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD231165">SD231165</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.1625, 34.30083, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC652561">UC652561</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.32873, 37.116352, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM208868">POM208868</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.1507, 41.2087, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC46627">CHSC46627</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.642777777778, 39.6513888888889, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA707408">RSA707408</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.205277777778, 34.2197222222222, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD175848">SD175848</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.22, 38.04722, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA289873">RSA289873</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.1, 33.5666666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG45263">SBBG45263</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.659, 34.4225, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1548588">UC1548588</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.38333, 37.483334, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958414">SEINET958414</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.633333, 33.416667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG80380">SBBG80380</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.346, 34.787, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR113663">UCR113663</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.8375, 37.65472, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA710748">RSA710748</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.9306, 32.9172, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA714817">RSA714817</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.337777777778, 34.1361111111111, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR96380">UCR96380</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.80861, 37.67583, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1928127">UC1928127</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.75183, 35.32769, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD172864">SD172864</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.9095, 32.9202, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA601650">RSA601650</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.3909, 34.5234, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42954">JEPS42954</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.2919, 34.1131, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR21891">UCR21891</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS97661">JEPS97661</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-124.1447, 41.8215, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA187649">RSA187649</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.4753, 33.3766, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100074">UC1100074</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.3667, 41.0786, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS91190">JEPS91190</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.50139, 37.95111, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR65271">UCR65271</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-116.97861, 33.48917, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR142965">UCR142965</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.82694, 35.33778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG43509">SBBG43509</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.618, 35.036, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099837">UC1099837</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.79773, 39.362442, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS112041">JEPS112041</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.15611, 38.09194, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM118943">POM118943</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.0212, 36.9709, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS76743">JEPS76743</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.99238, 39.88344, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR23018">UCR23018</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.36028, 34.13139, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC814186">UC814186</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.6210, 34.1131, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CHSC55066">CHSC55066</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.488888888889, 39.3277777777778, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1100078">UC1100078</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.3667, 41.0786, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?LA202395">LA202395</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.87573513854, 34.1384834290506, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG98008">SBBG98008</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.9615, 34.512, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR162364">UCR162364</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.60639, 34.43583, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SD232589">SD232589</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.81667, 37.68333, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SEINET958419">SEINET958419</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.7, 33.366667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM208658">POM208658</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.0708, 38.2119, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC2028382">UC2028382</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.91278, 37.88167, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?POM156283">POM156283</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.4728, 34.0688, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB38025">UCSB38025</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.6175, 35.0300, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1745666">UC1745666</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-124.1447, 41.8215, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SDSU14983">SDSU14983</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.350000, 33.366670, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCR227952">UCR227952</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.46661, 33.47361, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC472160">UC472160</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.75536, 34.10679, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC217958">UC217958</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.7600, 33.5700, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099816">UC1099816</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.96687, 37.17512, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CDA16694">CDA16694</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-123.223888888889, 41.8491666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA188308">RSA188308</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.3933, 33.3775, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?JEPS42988">JEPS42988</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-122.47, 37.78806, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG98587">SBBG98587</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-119.066, 34.599, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA611364">RSA611364</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.1111, 34.5509, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UC1099840">UC1099840</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.96841, 39.152958, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CDA844">CDA844</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.481944444444, 34.0216666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?CDA18355">CDA18355</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-121.7, 36.9166666666667, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?UCSB23542">UCSB23542</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-114.5144, 34.7345, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG56493">SBBG56493</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-120.2, 34.607, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?SBBG119908">SBBG119908</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-117.386, 33.993, 0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name />
+    <description>
+  <![CDATA[
+    <a href="http://ucjeps.berkeley.edu/cgi-bin/new_detail.pl?RSA594994">RSA594994</a>
+  ]]>
+    </description>
+    <styleUrl>#blue</styleUrl>
+    <Point>
+      <coordinates>-118.3933, 33.3776, 0</coordinates>
+    </Point>
+  </Placemark>
+
+</Document>
+</kml>
