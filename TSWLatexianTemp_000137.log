@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  31 AUG 2015 15:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  1 SEP 2015 15:22
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/lauravann/Desktop/Seagrass_sampling/TSWLatexianTemp_000251.tex
-(/Users/lauravann/Desktop/Seagrass_sampling/TSWLatexianTemp_000251.tex
+**/Users/lauravann/Desktop/Seagrass_sampling/TSWLatexianTemp_000137.tex
+(/Users/lauravann/Desktop/Seagrass_sampling/TSWLatexianTemp_000137.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
@@ -233,8 +233,8 @@ Package footmisc Info: Declaring symbol style lamport*-robust on input line 924.
 \RaggedRightParindent=\skip56
 \JustifyingParindent=\skip57
 )
-No file TSWLatexianTemp_000251.aux.
-\openout1 = `TSWLatexianTemp_000251.aux'.
+No file TSWLatexianTemp_000137.aux.
+\openout1 = `TSWLatexianTemp_000137.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
@@ -297,7 +297,7 @@ LaTeX Info: Redefining \ref on input line 14.
 LaTeX Info: Redefining \pageref on input line 14.
 LaTeX Info: Redefining \nameref on input line 14.
 \@outlinefile=\write3
-\openout3 = `TSWLatexianTemp_000251.out'.
+\openout3 = `TSWLatexianTemp_000137.out'.
 
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -331,210 +331,465 @@ LaTeX Info: Redefining \selectfont on input line 14.
  <Triglochin01.jpg, id=4, 702.625pt x 702.625pt>
 File: Triglochin01.jpg Graphic file (type jpg)
  <use Triglochin01.jpg>
-Package pdftex.def Info: Triglochin01.jpg used on input line 25.
+Package pdftex.def Info: Triglochin01.jpg used on input line 23.
 (pdftex.def)             Requested size: 227.62204pt x 227.62137pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 31.
+(Font)              <5> on input line 28.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
-[]\OT1/cmr/m/n/10 -In Berke-ley Ma-rina, Crissy Field North-ern wa-ter-
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
+[]\OT1/cmr/m/n/10 - In Berke-ley Ma-rina, Crissy Field North-ern wa-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []\OT1/cmr/m/n/10 -Low zone of salt marsh, if high tide will be sub-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 []\OT1/cmr/m/n/10 -Flower/seed stalks tall, round seeds along stalk;
  []
 
-<Triglochin02.jpg, id=5, 192.9609pt x 289.08pt>
-File: Triglochin02.jpg Graphic file (type jpg)
- <use Triglochin02.jpg>
-Package pdftex.def Info: Triglochin02.jpg used on input line 37.
-(pdftex.def)             Requested size: 227.62204pt x 341.0188pt.
+<Triglochin04.jpg, id=5, 465.74pt x 349.305pt>
+File: Triglochin04.jpg Graphic file (type jpg)
+ <use Triglochin04.jpg>
+Package pdftex.def Info: Triglochin04.jpg used on input line 34.
+(pdftex.def)             Requested size: 227.62204pt x 170.71323pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]\OT1/cmr/m/n/10 -In Berke-ley Ma-rina, Crissy Field North-ern wa-ter-
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\OT1/cmr/m/n/10 - In Berke-ley Ma-rina, Crissy Field North-ern wa-ter-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]\OT1/cmr/m/n/10 -Low zone of salt marsh, if high tide will be sub-
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\OT1/cmr/m/n/10 - Low zone of salt marsh, if high tide will be sub-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
-[]\OT1/cmr/m/n/10 -Flower/seed stalks tall, round seeds along stalk;
+Underfull \hbox (badness 10000) in paragraph at lines 39--39
+[]\OT1/cmr/m/n/10 - Flower/seed stalks tall, round seeds along stalk;
  []
 
-<Ruppia01.jpg, id=6, 84.0741pt x 144.2991pt>
-File: Ruppia01.jpg Graphic file (type jpg)
- <use Ruppia01.jpg>
-Package pdftex.def Info: Ruppia01.jpg used on input line 49.
-(pdftex.def)             Requested size: 227.62204pt x 390.72687pt.
+<Triglochin03.jpg, id=6, 572.1375pt x 429.605pt>
+File: Triglochin03.jpg Graphic file (type jpg)
+ <use Triglochin03.jpg>
+Package pdftex.def Info: Triglochin03.jpg used on input line 45.
+(pdftex.def)             Requested size: 227.62204pt x 170.91466pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\OT1/cmr/m/n/10 - In Berke-ley Ma-rina, Crissy Field North-ern wa-ter-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\OT1/cmr/m/n/10 - Low zone of salt marsh, if high tide will be sub-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]\OT1/cmr/m/n/10 - Flower/seed stalks tall, round seeds along stalk;
+ []
+
+<Ruppia04.jpg, id=7, 481.8pt x 361.35pt>
+File: Ruppia04.jpg Graphic file (type jpg)
+ <use Ruppia04.jpg>
+Package pdftex.def Info: Ruppia04.jpg used on input line 56.
+(pdftex.def)             Requested size: 227.62204pt x 170.71672pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 [][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Rup-pia mar-itima; wid-geon-grass,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]\OT1/cmr/m/n/10 -Thin thread-like leaves, shal-low roots, coiled in-flo-
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\OT1/cmr/m/n/10 - Thin thread-like leaves, shal-low roots, coiled in-flo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]\OT1/cmr/m/n/10 -Long, nar-row, al-ter-nate leaves are less than 1 mm
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\OT1/cmr/m/n/10 - Long, nar-row, al-ter-nate leaves are less than 1 mm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 wide. Stip-u-lar sheaths, less than 7 cm long, are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 com-pletely fused to the leaf and of-ten broadly clasp
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]\OT1/cmr/m/n/10 -Tiny flow-ers (3-5 mm across), lack petals and
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\OT1/cmr/m/n/10 - Tiny flow-ers (3-5 mm across), lack petals and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 sepals, and oc-cur in pairs on stalks. Pol-li-na-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 of-ten oc-curs un-der-wa-ter or at the wa-ters sur-face.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
-[]\OT1/cmr/m/n/10 -Fruits are dark col-ored, egg to pear-shaped, sym-
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]\OT1/cmr/m/n/10 - Fruits are dark col-ored, egg to pear-shaped, sym-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 met-ri-cal to highly asym-met-ri-cal ach-ene is 1.5 to 2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 mm long and oc-curs in a clus-ter. Each fruit is on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 51--51
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
 \OT1/cmr/m/n/10 in-di-vid-ual stalks, but all are con-nected to a long
  []
 
-<Ruppia02.jpg, id=7, 451.6875pt x 360.34625pt>
+<Ruppia02.jpg, id=8, 451.6875pt x 360.34625pt>
 File: Ruppia02.jpg Graphic file (type jpg)
  <use Ruppia02.jpg>
-Package pdftex.def Info: Ruppia02.jpg used on input line 57.
+Package pdftex.def Info: Ruppia02.jpg used on input line 64.
 (pdftex.def)             Requested size: 227.62204pt x 181.59677pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 [][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Rup-pia mar-itima; wid-geon-grass,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 -Thin thread-like leaves, shal-low roots, coiled in-flo-
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\OT1/cmr/m/n/10 - Thin thread-like leaves, shal-low roots, coiled in-flo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 -Long, nar-row, al-ter-nate leaves are less than 1 mm
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\OT1/cmr/m/n/10 - Long, nar-row, al-ter-nate leaves are less than 1 mm
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 wide. Stip-u-lar sheaths, less than 7 cm long, are
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 com-pletely fused to the leaf and of-ten broadly clasp
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 -Tiny flow-ers (3-5 mm across), lack petals and
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\OT1/cmr/m/n/10 - Tiny flow-ers (3-5 mm across), lack petals and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 sepals, and oc-cur in pairs on stalks. Pol-li-na-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 of-ten oc-curs un-der-wa-ter or at the wa-ters sur-face.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
-[]\OT1/cmr/m/n/10 -Fruits are dark col-ored, egg to pear-shaped, sym-
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
+[]\OT1/cmr/m/n/10 - Fruits are dark col-ored, egg to pear-shaped, sym-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 met-ri-cal to highly asym-met-ri-cal ach-ene is 1.5 to 2
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 mm long and oc-curs in a clus-ter. Each fruit is on
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 59--59
+Underfull \hbox (badness 10000) in paragraph at lines 66--66
 \OT1/cmr/m/n/10 in-di-vid-ual stalks, but all are con-nected to a long
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 67.
-[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Triglochin01.jpg> <./Triglochin02.jpg>] [2 <./Ruppia01.jpg> <./Ruppia02.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 67.
- (./TSWLatexianTemp_000251.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 67.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 67.
+<Alisma01.jpg, id=9, 722.7pt x 721.69624pt>
+File: Alisma01.jpg Graphic file (type jpg)
+ <use Alisma01.jpg>
+Package pdftex.def Info: Alisma01.jpg used on input line 71.
+(pdftex.def)             Requested size: 227.62204pt x 227.30247pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, marshes muddy shore-lines, ditches,
+ []
 
 
-Package rerunfilecheck Warning: File `TSWLatexianTemp_000251.out' has changed.
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
+[]\OT1/cmr/m/n/10 - Marin County, Mt. Tamal-pais, Bull-frog Road;
+ []
+
+<Alisma02.jpg, id=10, 734.745pt x 513.92pt>
+File: Alisma02.jpg Graphic file (type jpg)
+ <use Alisma02.jpg>
+Package pdftex.def Info: Alisma02.jpg used on input line 79.
+(pdftex.def)             Requested size: 227.62204pt x 159.21161pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[]\OT1/cmr/m/n/10 -Leaves grow-ing from base of plant; made up of one
+ []
+
+<Alisma03.jpg, id=11, 411.5375pt x 364.36125pt>
+File: Alisma03.jpg Graphic file (type jpg)
+ <use Alisma03.jpg>
+Package pdftex.def Info: Alisma03.jpg used on input line 86.
+(pdftex.def)             Requested size: 227.62204pt x 201.52792pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]\OT1/cmr/m/n/10 -Leaves grow-ing from base of plant; made up of one
+ []
+
+<Echinodorus01.jpg, id=12, 642.4pt x 421.575pt>
+File: Echinodorus01.jpg Graphic file (type jpg)
+ <use Echinodorus01.jpg>
+Package pdftex.def Info: Echinodorus01.jpg used on input line 93.
+(pdftex.def)             Requested size: 227.62204pt x 149.3739pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Echin-odorus bert-eroi; Up-right bur-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, can also be ter-res-trial; Stafford Lake,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/10 - Leaves can be sub-merged or not, di-rectly off of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+\OT1/cmr/m/n/10 plant; 10-45 cm long x 0.5-4 cm wide; leaves can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/10 - Up-right stem with com-pound in-flo-res-cence, white
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+[]\OT1/cmr/m/n/10 - nut-lets are grey-brown with 2 winged ribs al-ter-
+ []
+
+<Echinodorus02.jpg, id=13, 903.375pt x 507.8975pt>
+File: Echinodorus02.jpg Graphic file (type jpg)
+ <use Echinodorus02.jpg>
+Package pdftex.def Info: Echinodorus02.jpg used on input line 101.
+(pdftex.def)             Requested size: 227.62204pt x 127.9738pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Echin-odorus bert-eroi; Up-right
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, can also be ter-res-trial; Stafford Lake,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/10 - Leaves can be sub-merged or not, di-rectly off of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+\OT1/cmr/m/n/10 plant; 10-45 cm long x 0.5-4 cm wide; leaves can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/10 - Up-right stem with com-pound in-flo-res-cence, white
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
+[]\OT1/cmr/m/n/10 - nut-lets are grey-brown with 2 winged ribs al-ter-
+ []
+
+<Echinodorus03.jpg, id=14, 595.22375pt x 451.6875pt>
+File: Echinodorus03.jpg Graphic file (type jpg)
+ <use Echinodorus03.jpg>
+Package pdftex.def Info: Echinodorus03.jpg used on input line 108.
+(pdftex.def)             Requested size: 227.62204pt x 172.732pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Echin-odorus bert-eroi; Up-right
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, can also be ter-res-trial; Stafford Lake,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/10 - Leaves can be sub-merged or not, di-rectly off of
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+\OT1/cmr/m/n/10 plant; 10-45 cm long x 0.5-4 cm wide; leaves can
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/10 - Up-right stem with com-pound in-flo-res-cence, white
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]\OT1/cmr/m/n/10 - nut-lets are grey-brown with 2 winged ribs al-ter-
+ []
+
+<Potamogeton01.jpg, id=15, 351.3125pt x 490.83376pt>
+File: Potamogeton01.jpg Graphic file (type jpg)
+ <use Potamogeton01.jpg>
+Package pdftex.def Info: Potamogeton01.jpg used on input line 115.
+(pdftex.def)             Requested size: 227.62204pt x 318.02707pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Pota-moge-ton fil-i-formis; aka Stuck-e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, con-flu-ence of Sacra-mento and San
+ []
+
+<Potamogeton03.jpg, id=16, 320.7985pt x 240.4985pt>
+File: Potamogeton03.jpg Graphic file (type jpg)
+ <use Potamogeton03.jpg>
+Package pdftex.def Info: Potamogeton03.jpg used on input line 122.
+(pdftex.def)             Requested size: 227.62204pt x 170.64502pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Pota-moge-ton fil-i-formis; aka Stuck-e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--124
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, con-flu-ence of Sacra-mento and San
+ []
+
+<Potamogeton05.jpg, id=17, 602.25pt x 903.375pt>
+File: Potamogeton05.jpg Graphic file (type jpg)
+ <use Potamogeton05.jpg>
+Package pdftex.def Info: Potamogeton05.jpg used on input line 129.
+(pdftex.def)             Requested size: 227.62204pt x 341.43896pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Pota-moge-ton fil-i-formis; aka Stuck-e-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--131
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, con-flu-ence of Sacra-mento and San
+ []
+
+<Sagittaria01.jpg, id=18, 602.25pt x 803.25093pt>
+File: Sagittaria01.jpg Graphic file (type jpg)
+ <use Sagittaria01.jpg>
+Package pdftex.def Info: Sagittaria01.jpg used on input line 136.
+(pdftex.def)             Requested size: 227.62204pt x 303.59613pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Sagit-taria lat-i-fo-lia; Broadleaf Ar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, usu-ally grow-ing in dense clumps in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\OT1/cmr/m/n/10 - leaves with long peti-oles, ar-row-head shaped,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[]\OT1/cmr/m/n/10 - White flow-ers, three petals, 3 sepals, 6+sta-mens,
+ []
+
+<Sagittaria03.jpg, id=19, 150.5625pt x 150.26137pt>
+File: Sagittaria03.jpg Graphic file (type jpg)
+ <use Sagittaria03.jpg>
+Package pdftex.def Info: Sagittaria03.jpg used on input line 143.
+(pdftex.def)             Requested size: 227.62204pt x 227.18903pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[][]\OT1/cmr/m/n/10 . |\OT1/cmr/bx/n/10 Sagit-taria lat-i-fo-lia; Broadleaf Ar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]\OT1/cmr/m/n/10 - Fresh-wa-ter, usu-ally grow-ing in dense clumps in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]\OT1/cmr/m/n/10 - leaves with long peti-oles, ar-row-head shaped,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
+[]\OT1/cmr/m/n/10 - White flow-ers, three petals, 3 sepals, 6+sta-mens,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 148.
+[1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./Triglochin01.jpg> <./Triglochin04.jpg> <./Triglochin03.jpg>] [2 <./Ruppia04.jpg> <./Ruppia02.jpg>] [3 <./Alisma01.jpg> <./Alisma02.jpg> <./Alisma03.jpg>] [4 <./Echinodorus01.jpg> <./Echinodorus02.jpg> <./Echinodorus03.jpg>] [5 <./Potamogeton01.jpg> <./Potamogeton03.jpg>] [6 <./Potamogeton05.jpg>] [7 <./Sagittaria01.jpg> <./Sagittaria03.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 148.
+ (./TSWLatexianTemp_000137.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 148.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 148.
+
+
+Package rerunfilecheck Warning: File `TSWLatexianTemp_000137.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `TSWLatexianTemp_000251.out':
+Package rerunfilecheck Info: Checksums for `TSWLatexianTemp_000137.out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 148.
  ) 
 Here is how much of TeX's memory you used:
- 7043 strings out of 493315
- 108852 string characters out of 6137904
- 288730 words of memory out of 5000000
- 10442 multiletter control sequences out of 15000+600000
- 3948 words of font info for 15 fonts, out of 8000000 for 9000
+ 7134 strings out of 493315
+ 110339 string characters out of 6137904
+ 301730 words of memory out of 5000000
+ 10503 multiletter control sequences out of 15000+600000
+ 4294 words of font info for 16 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 36i,9n,46p,949b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on TSWLatexianTemp_000251.pdf (2 pages, 603292 bytes).
+ 36i,9n,46p,968b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on TSWLatexianTemp_000137.pdf (7 pages, 1988685 bytes).
 PDF statistics:
- 32 PDF objects out of 1000 (max. 8388607)
- 21 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 57 compressed objects within 1 object stream
+ 23 named destinations out of 1000 (max. 500000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
